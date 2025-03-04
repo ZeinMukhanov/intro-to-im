@@ -1,2 +1,2 @@
 # intro-to-im
-Classwork for Intro to IM class
+classwork for intro to im class
